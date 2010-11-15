@@ -9,7 +9,7 @@ Source: http://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-7
 License: Adobe Utopia
 BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
-BuildRequires: x11-font-util >= 1.0.0
+BuildRequires: x11-font-util >= 1.2
 BuildRequires: x11-util-macros >= 1.0.1
 Conflicts: xorg-x11-75dpi-fonts <= 6.9.0
 Requires(post): mkfontdir
