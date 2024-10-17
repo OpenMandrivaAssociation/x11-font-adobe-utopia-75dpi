@@ -3,7 +3,7 @@ Version: 1.0.4
 Release: 4
 Summary: Xorg X11 font adobe-utopia-75dpi
 Group: Development/X11
-URL: http://xorg.freedesktop.org
+URL: https://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-75dpi-%{version}.tar.bz2
 # License doesn't say we can modify the software
 License: Adobe Utopia
